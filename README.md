@@ -75,7 +75,7 @@ cp .env.example .env
 
 ### 4. Start Development Server
 ```bash
-php fany server --port 8000
+php fany server --p 8000
 ```
 
 ### 5. Access Your Application

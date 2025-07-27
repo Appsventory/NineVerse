@@ -11,3 +11,30 @@
 
 # Windows batch files should use crlf
 *.bat text eol=crlf
+
+# NineVerse Framework Language Configuration
+
+# === PHP Framework Files ===
+*.php linguist-language=PHP
+*.nixs.php linguist-language=NIXS
+
+
+# === Public Assets ===
+public/assets/* linguist-vendored
+
+# === Documentation ===
+*.md linguist-documentation
+README.md linguist-documentation
+CHANGELOG.md linguist-documentation
+LICENSE linguist-documentation
+
+# === Web Assets ===
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+*.html linguist-language=HTML
+
+# === Config Files ===
+*.json linguist-language=JSON
+*.xml linguist-language=XML
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML
