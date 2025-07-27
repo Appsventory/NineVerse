@@ -1,0 +1,13 @@
+* text=auto
+
+# Force the following filetypes to have unix eols, so Windows
+# does not break them
+*.php text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.lock text eol=lf
+
+# Windows batch files should use crlf
+*.bat text eol=crlf
