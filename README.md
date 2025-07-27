@@ -117,7 +117,7 @@ NineVerse/
 ## 📖 Documentation
 
 ### Core Concepts
-- [Routing System](https://github.com/Appsventory/NineVerse/blob/main/docs/routing.md)
+- [Routing System](https://github.com/Appsventory/NineVerse/blob/main/docs/router.md)
 - [Models & Database](https://github.com/Appsventory/NineVerse/blob/main/docs/database.md)
 
 ### Advanced Topics
